@@ -55,6 +55,8 @@ When you first open RStudio, you will be greeted by three panels:
 Once you open files, such as R scripts, an editor panel will also open
 in the top left.
 
+The [RStudio IDE cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) is particularly helpful when working with RStudio.
+
 ## Work flow within RStudio
 There are two main ways one can work within RStudio.
 
